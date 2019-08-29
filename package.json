@@ -4,7 +4,7 @@
   "description": "Example implementation for hooks based react app ",
   "main": "index.js",
   "author": "Neeraj Suthar",
-  "folk by": "tung1404@gmail.com",
+  "folk by": "tung1404",
   "license": "MIT",
   "private": true,
   "scripts": {
